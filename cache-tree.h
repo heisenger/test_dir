@@ -5,7 +5,10 @@
 #include "tree.h"
 #include "tree-walk.h"
 
-/*this is a master change*/
+<<<<<<< HEAD
+=======
+/*just gonna add some random stuffs*/
+>>>>>>> experimental
 
 struct cache_tree;
 struct cache_tree_sub {
