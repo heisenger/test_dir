@@ -14,6 +14,11 @@
 /*fast forward*/
 /*add changes*/
 /*1043*/
+<<<<<<< HEAD
+=======
+/*catch me*/
+/*mak some changes*/
+>>>>>>> 94c47b7beb3cd09f466ced676491ceac3635f141
 struct cache_tree;
 struct cache_tree_sub {
 	struct cache_tree *cache_tree;
