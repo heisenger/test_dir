@@ -8,7 +8,6 @@
 
 /*just gonna add some random stuffs*/
 /* what causes conflicts between merge?*/
-<<<<<<< HEAD
 /*more random shit*/
 =======
 /*whats up*/
