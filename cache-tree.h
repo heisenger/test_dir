@@ -8,6 +8,10 @@
 <<<<<<< HEAD
 =======
 /*just gonna add some random stuffs*/
+<<<<<<< HEAD
+>>>>>>> experimental
+=======
+/* what causes conflicts between merge?*/
 >>>>>>> experimental
 
 struct cache_tree;
