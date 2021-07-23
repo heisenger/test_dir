@@ -14,7 +14,6 @@
 /*fast forward*/
 /*add changes*/
 /*1043*/
-/*catch me*/
 struct cache_tree;
 struct cache_tree_sub {
 	struct cache_tree *cache_tree;
