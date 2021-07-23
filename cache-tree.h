@@ -6,6 +6,7 @@
 #include "tree-walk.h"
 
 /*just gonna add some random stuffs*/
+/* what causes conflicts between merge?*/
 
 struct cache_tree;
 struct cache_tree_sub {
